@@ -3,6 +3,9 @@
 
 @import "{{ site.theme }}";
 
+#header_wrap{
+  display : flex;
+}
 .topnav {
   overflow: hidden;
   bottom:0;
