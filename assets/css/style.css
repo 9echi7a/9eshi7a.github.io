@@ -1,5 +1,7 @@
 ---
 ---
+@import "{{ site.theme }}";
+
 
 header .topnav a {
   float: left;
@@ -15,4 +17,3 @@ header .topnav a:hover {
   color: black;
 }
 
-@import "{{ site.theme }}";
