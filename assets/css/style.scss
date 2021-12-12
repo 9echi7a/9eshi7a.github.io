@@ -4,9 +4,10 @@
 @import "{{ site.theme }}";
 
 .topnav {
-  background-color: #333;
   overflow: hidden;
-  float : left;
+  position:absolute;
+  bottom:0;
+  right:0;
 }
 
 .topnav {
